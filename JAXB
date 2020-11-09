@@ -1,0 +1,1 @@
+xjc -p <package_name> <schema_path> -d <destination_directory_path>
